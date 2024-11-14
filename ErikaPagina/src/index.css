@@ -172,6 +172,11 @@ button:hover {
     margin: 20px 0;
 }
 
+.personajes__buton{
+    width: 70%;
+    margin: auto;
+}
+
 .selecPersonajes {
     text-align: center;
     margin: 20px 0;
@@ -238,6 +243,9 @@ button:hover {
 
     .container {
         max-width: 500px;
+    }
+    .personajes__buton{
+        height: 70px;
     }
 }
 
